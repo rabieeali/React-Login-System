@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  margin: auto;
+  gap: 0.5rem;
+  border: 1px solid #999;
+  padding: 2rem;
+}
