@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+li{
+  list-style: none;
+}
+
+button {
+  margin: 1rem 0;
+}
